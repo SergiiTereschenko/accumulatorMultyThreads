@@ -1,4 +1,4 @@
-package main.com.test;
+package main.com.accumulator;
 
 import java.util.HashMap;
 import java.util.Map;
